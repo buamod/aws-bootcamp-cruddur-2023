@@ -3,9 +3,6 @@
 - Finihsed watching the Week 0 video
 - Finihsed all the pre-requested 
 - Started on a Conceptual diagram, I will post it soon
+- The conceptual design
 
-Wednesday
-- [ ] Paste here the conceptual design
-- [ ] Add a logical design
-- [ ] Try to configure the Admin use in code
-- [ ] finish watching the rest of the videos 
+ ![nDiagram](https://user-images.githubusercontent.com/2315602/219520424-0f0b5b2e-da35-48e4-b7d4-257c250520ef.jpeg)
